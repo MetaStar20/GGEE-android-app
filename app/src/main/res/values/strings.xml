@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GGEE_VS</string>
+    <string name="tap_to_grab_a_pic">Tap To Grab  Pic</string>
+    <string name="pic_grabbed">Pic Grabbed</string>
+    <string name="status">Initialing...</string>
+    <string name="pic_grab_fail">Grab Image Failed</string>
+</resources>
